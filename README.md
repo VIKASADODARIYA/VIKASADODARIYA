@@ -7,7 +7,7 @@ Hi there! 👋 I'm Vikas Adodariya, a passionate software developer with interes
 - 💼 Currently working on [Project/Job/Interest].
 - 🌱 Currently learning [Technology/Skill].
 - 💬 Ask me about [Topic/Interest].
-- 📫 How to reach me: [Email](mailto:adodariyavikas@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vikas-adodariya-22b719242) | [Twitter]([https://twitter.com/yourusername](https://x.com/Vikas_Patel_10)
+- 📫 How to reach me: [Email](mailto:adodariyavikas@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vikas-adodariya-22b719242) | [Twitter](https://x.com/Vikas_Patel_10)
 
 Feel free to explore these projects and provide any feedback or suggestions!
 

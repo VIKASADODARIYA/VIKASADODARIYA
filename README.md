@@ -8,6 +8,16 @@ I'm a passionate software developer with interests in web development, applicati
 - 🌐 Skilled in HTML, CSS, Redux, RESTful APIs
 - 📚 Currently diving deeper into Next.js and TypeScript..
 
+## Languages and Tools
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/next-js.png"/>
+<img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VIKASADODARIYA&show_icons=true&theme=algolia)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VIKASADODARIYA&layout=compact&theme=algolia)

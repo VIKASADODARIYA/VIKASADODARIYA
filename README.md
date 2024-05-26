@@ -8,14 +8,12 @@ Hi there! 👋 I'm Vikas Adodariya, a passionate software developer with interes
 - 🌐 Skilled in HTML, CSS, Redux, RESTful APIs
 - 📚 Currently diving deeper into Next.js and TypeScript..
 
-## Let's Connect
- [<img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>](mailto:adodariyavikas@gmail.com) [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/vikas-adodariya-22b719242) [<img src="https://img.icons8.com/color/48/000000/twitter.png"/>](https://x.com/Vikas_Patel_10)
-
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VIKASADODARIYA&show_icons=true&theme=algolia)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VIKASADODARIYA&layout=compact&theme=algolia)
 
-Feel free to explore these projects and provide any feedback or suggestions!
+## Let's Connect
+ [<img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>](mailto:adodariyavikas@gmail.com) [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/vikas-adodariya-22b719242) [<img src="https://img.icons8.com/color/48/000000/twitter.png"/>](https://x.com/Vikas_Patel_10)
 
 ## Contributions
 

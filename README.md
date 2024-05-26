@@ -16,7 +16,7 @@ I'm a passionate software developer with interests in web development, applicati
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VIKASADODARIYA&layout=compact&theme=algolia)
 
 ## Let's Connect
-[<img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>](mailto:adodariyavikas@gmail.com) [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/vikas-adodariya-22b719242) [<img src="https://img.icons8.com/color/48/000000/twitter.png"/>](https://x.com/Vikas_Patel_10)
+[<img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>](mailto:adodariyavikas@gmail.com) [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/vikas-adodariya-22b719242) [<img src="https://img.icons8.com/ios-filled/50/000000/x.png"/>](https://x.com/Vikas_Patel_10)
 
 ## Contributions
 

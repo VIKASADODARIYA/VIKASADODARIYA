@@ -1,21 +1,13 @@
 # Welcome to My GitHub Profile!
 
-Hi there! 👋 I'm [Your Name], a passionate software developer with interests in web development, machine learning, and open-source projects.
+Hi there! 👋 I'm Vikas Adodariya, a passionate software developer with interests in web development, machine learning, and open-source projects.
 
 ## About Me
 
 - 💼 Currently working on [Project/Job/Interest].
 - 🌱 Currently learning [Technology/Skill].
 - 💬 Ask me about [Topic/Interest].
-- 📫 How to reach me: [Email](mailto:youremail@example.com) | [LinkedIn](https://www.linkedin.com/in/yourusername/) | [Twitter](https://twitter.com/yourusername)
-
-## Projects
-
-Here are some of the projects I'm proud of:
-
-- [Project Name 1](Link): Brief description.
-- [Project Name 2](Link): Brief description.
-- [Project Name 3](Link): Brief description.
+- 📫 How to reach me: [Email](mailto:adodariyavikas@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vikas-adodariya-22b719242) | [Twitter]([https://twitter.com/yourusername](https://x.com/Vikas_Patel_10)
 
 Feel free to explore these projects and provide any feedback or suggestions!
 

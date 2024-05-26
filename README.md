@@ -11,8 +11,9 @@ Hi there! 👋 I'm Vikas Adodariya, a passionate software developer with interes
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VIKASADODARIYA&show_icons=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VIKASADODARIYA&layout=compact&theme=radical)
+## ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VIKASADODARIYA&show_icons=true&theme=radical)
+
+## ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VIKASADODARIYA&layout=compact&theme=radical)
 
 Feel free to explore these projects and provide any feedback or suggestions!
 

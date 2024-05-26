@@ -9,7 +9,7 @@ Hi there! 👋 I'm Vikas Adodariya, a passionate software developer with interes
 - 📚 Currently diving deeper into Next.js and TypeScript..
 
 ## Let's Connect
- [<img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>](https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r5.png)"/>](mailto:adodariyavikas@gmail.com) | [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/vikas-adodariya-22b719242) | [<img src="https://img.icons8.com/color/48/000000/twitter.png"/>](https://x.com/Vikas_Patel_10)
+ [<img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png"/>](mailto:adodariyavikas@gmail.com) | [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/vikas-adodariya-22b719242) | [<img src="https://img.icons8.com/color/48/000000/twitter.png"/>](https://x.com/Vikas_Patel_10)
 
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VIKASADODARIYA&show_icons=true&theme=algolia)

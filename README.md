@@ -5,7 +5,7 @@ I'm a passionate software developer with interests in web development, applicati
 ## About Me
 
 - 💻 Proficient in JavaScript, Node.js, Express, React, MongoDB
-- 🌐 Skilled in HTML, CSS, Redux, RESTful APIs
+- 🌐 Skilled in HTML, CSS, RESTful APIs
 - 📚 Currently diving deeper into Next.js and TypeScript..
 
 ## Languages and Tools

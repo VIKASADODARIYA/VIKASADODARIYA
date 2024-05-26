@@ -10,8 +10,8 @@ Hi there! 👋 I'm Vikas Adodariya, a passionate software developer with interes
 - 📫 How to reach me: [Email](mailto:adodariyavikas@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vikas-adodariya-22b719242) | [Twitter](https://x.com/Vikas_Patel_10)
 
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VIKASADODARIYA&show_icons=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VIKASADODARIYA&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VIKASADODARIYA&show_icons=true&theme=cobalt)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VIKASADODARIYA&layout=compact&theme=cobalt)
 
 Feel free to explore these projects and provide any feedback or suggestions!
 

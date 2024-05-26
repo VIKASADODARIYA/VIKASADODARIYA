@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Vikas Adodariya!
 
-I'm a passionate software developer with interests in web development, application development, and open-source projects.
+I'm a passionate software developer with a keen interest in building innovative solutions. My expertise lies in web development, where I specialize in technologies like JavaScript, Node.js, React, and MongoDB. I love exploring new technologies and solving complex problems to create efficient and scalable software solutions. When I'm not coding, you can find me exploring the latest trends in tech, playing video games, or enjoying outdoor adventures.
 
 ## About Me
 

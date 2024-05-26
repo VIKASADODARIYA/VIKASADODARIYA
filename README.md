@@ -7,7 +7,7 @@ Hi there! 👋 I'm Vikas Adodariya, a passionate software developer with interes
 - 💻 Proficient in JavaScript, Node.js, Express, React, MongoDB
 - 🌐 Skilled in HTML, CSS, Redux, RESTful APIs
 - 📚 Currently diving deeper into Next.js and TypeScript..
-- 📫 How to reach me: [Email](mailto:adodariyavikas@gmail.com) | [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/vikas-adodariya-22b719242) | [Twitter](https://x.com/Vikas_Patel_10)
+- 📫 How to reach me: [<img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>](mailto:adodariyavikas@gmail.com) | [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/vikas-adodariya-22b719242) | [<img src="https://img.icons8.com/color/48/000000/twitter.png"/>](https://x.com/Vikas_Patel_10)
 
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VIKASADODARIYA&show_icons=true&theme=algolia)

@@ -4,9 +4,9 @@ Hi there! 👋 I'm Vikas Adodariya, a passionate software developer with interes
 
 ## About Me
 
-- 💼 Currently working on [Project/Job/Interest].
-- 🌱 Currently learning [Technology/Skill].
-- 💬 Ask me about [Topic/Interest].
+- 💻 Proficient in JavaScript, Node.js, Express, React, MongoDB
+- 🌐 Skilled in HTML, CSS, Redux, RESTful APIs
+- 📚 Currently diving deeper into Next.js and TypeScript..
 - 📫 How to reach me: [Email](mailto:adodariyavikas@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vikas-adodariya-22b719242) | [Twitter](https://x.com/Vikas_Patel_10)
 
 ## GitHub Stats

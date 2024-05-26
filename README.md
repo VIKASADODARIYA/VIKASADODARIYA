@@ -1,6 +1,6 @@
-# Welcome to My GitHub Profile!
+# Hi there! 👋 I'm Vikas Adodariya!
 
-Hi there! 👋 I'm Vikas Adodariya, a passionate software developer with interests in web development, application development, and open-source projects.
+I'm a passionate software developer with interests in web development, application development, and open-source projects.
 
 ## About Me
 

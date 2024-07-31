@@ -16,9 +16,9 @@ I'm a passionate software developer with a keen interest in building innovative 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VIKASADODARIYA&layout=compact&theme=chartreuse-dark)
 
 ## Projects
-- **[Portfolio](https://vikas-portfolio-10.netlify.app/)**
-- **[Resume Builder](https://resume-builder-001.netlify.app/)**
-- **[Weather Website](https://weather-website-00.netlify.app/)**
+- **<a href="https://vikas-portfolio-10.netlify.app/" target="_blank">Portfolio</a>**
+- **<a href="https://resume-builder-001.netlify.app/" target="_blank">Resume Builder</a>**
+- **<a href="https://weather-website-00.netlify.app/" target="_blank">Weather Website</a>**
 
 ## Let's Connect
-[<img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>](mailto:adodariyavikas@gmail.com) [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/vikas-adodariya-22b719242) [<img src="https://img.icons8.com/fluent/48/000000/twitter"/>](https://x.com/Vikas_Patel_10)
+<a href="mailto:adodariyavikas@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a> <a href="https://www.linkedin.com/in/vikas-adodariya-22b719242" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a> <a href="https://x.com/Vikas_Patel_10" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter"/></a>

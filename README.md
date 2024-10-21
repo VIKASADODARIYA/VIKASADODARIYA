@@ -13,7 +13,6 @@ I'm a passionate software developer with a keen interest in building innovative 
 
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VIKASADODARIYA&show_icons=true&theme=chartreuse-dark)
-![](https://github-readme-stats.vercel.app/api?username=VIKASADODARIYA&theme=chartreuse-dark&hide_border=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VIKASADODARIYA&layout=compact&theme=chartreuse-dark)
 
 ## Projects
